@@ -1,0 +1,55 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-09--13-Friedrich-Hebbel-__13030
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Hebbel, Friedrich
+    aliases:
+    - Hebbel, C. F. (Christian Friedrich)
+    - Hebbel, Christian Friedrich
+    - Hebbel, F. (Friedrich)
+    birthdate: &id001 1813
+    deathdate: 1863
+    gutenberg_agent_id: '1061'
+    url: http://www.gutenberg.org/2009/agents/1061
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Christian_Friedrich_Hebbel
+    - http://de.wikipedia.org/wiki/Friedrich_Hebbel
+  - agent_name: Ludwig, Otto
+    birthdate: *id001
+    deathdate: 1865
+    gutenberg_agent_id: '35764'
+    url: http://www.gutenberg.org/2009/agents/35764
+    wikipedia: http://en.wikipedia.org/wiki/Otto_Ludwig_%28writer%29
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- GITenberg
+tableOfContents: 'The Life of Friedrich Hebbel. By William Guild Howard -- Hebbel:
+  Maria Magdalena. -- Siegfried''s Death. -- Anna. -- On Theodor Körner and Heinrich
+  von Kleist. -- Ludolf Wienbarg''s The Dramatists of the Present Day. -- Review of
+  Heinrich von Kleist''s Play, The Prince of Homburg, or The Battle of Fehrbellin.
+  -- Recollections of My Childhood. (Extracts from the Journal of Friedrich Hebbel)
+  -- The Life of Otto Ludwig. By Alexander R. Hohlfeld -- Ludwig: The Hereditary Forester.
+  -- Between Heaven and Earth.'
+title: "The German Classics of the Nineteenth and Twentieth Centuries, Volume 09\r\
+  \nFriedrich Hebbel and Otto Ludwig"
+url: http://www.gutenberg.org/ebooks/13030
