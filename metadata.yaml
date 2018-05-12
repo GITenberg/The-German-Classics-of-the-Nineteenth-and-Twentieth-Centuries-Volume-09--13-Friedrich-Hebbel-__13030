@@ -1,5 +1,5 @@
 _repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-09--13-Friedrich-Hebbel-__13030
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Hebbel, Friedrich
@@ -7,7 +7,7 @@ contributor:
     - Hebbel, C. F. (Christian Friedrich)
     - Hebbel, Christian Friedrich
     - Hebbel, F. (Friedrich)
-    birthdate: &id001 1813
+    birthdate: 1813
     deathdate: 1863
     gutenberg_agent_id: '1061'
     url: http://www.gutenberg.org/2009/agents/1061
@@ -15,11 +15,14 @@ contributor:
     - http://en.wikipedia.org/wiki/Christian_Friedrich_Hebbel
     - http://de.wikipedia.org/wiki/Friedrich_Hebbel
   - agent_name: Ludwig, Otto
-    birthdate: *id001
+    birthdate: 1813
     deathdate: 1865
     gutenberg_agent_id: '35764'
     url: http://www.gutenberg.org/2009/agents/35764
     wikipedia: http://en.wikipedia.org/wiki/Otto_Ludwig_%28writer%29
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Francke, Kuno
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3853
     wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13030#The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-09--13-Friedrich-Hebbel-_
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2004-07-26'
 gutenberg_type: Text
